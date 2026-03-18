@@ -1,6 +1,6 @@
 train: ../train/images
 val: ../valid/images
-test: ../test/images
+#test: ../test/images
 
 nc: 2
 names: ['chicken', 'chicken2']
